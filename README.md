@@ -26,11 +26,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs,npm,vscode,postgres&perline=5" />
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A8B8&height=2"/>
 </p>
+
 ---
 
 
