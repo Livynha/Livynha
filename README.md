@@ -18,24 +18,9 @@
   <img src="https://skillicons.dev/icons?i=react,js,ts,figma,arduino,git,github,html,css,bootstrap,tailwind,nodejs,npm,vscode,postgres" />
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Livynha&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livynha&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
-## 🔥 Streak (dias ativos)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Livynha&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Contato
 
