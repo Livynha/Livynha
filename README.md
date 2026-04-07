@@ -15,31 +15,22 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E">
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
-<img src="https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837">
-<img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
-
+  <img src="https://skillicons.dev/icons?i=react,js,ts,figma,arduino&perline=5" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,npm,vscode,postgres&perline=5" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A8B8&height=2"/>
+</p>
 ---
 
 
