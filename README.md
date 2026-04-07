@@ -15,7 +15,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,figma,arduino&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,figma&perline=5" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,npm,vscode,postgres&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,vscode,postgres&perline=5" />
 </p>
 
 ---
